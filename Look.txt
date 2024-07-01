@@ -1,0 +1,4 @@
+1. go to backend => npx nodemon
+2. go to socket => npx nodemon
+3. go to client => npm run dev
+ 
